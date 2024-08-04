@@ -7,6 +7,6 @@ start = 0
 end = 10
 
 while start<=end:
-    print(f"aku mengulang{start}")
+    print(f"contoh sederhana looping dengan python{start}")
     pya.press('enter')
     start = start+1
