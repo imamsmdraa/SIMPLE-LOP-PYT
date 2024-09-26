@@ -1,2 +1,2 @@
-# SIMPLE-LOP-PYT
+# Sebuah-kejahilan-kecil
 cuman loop sederhana
